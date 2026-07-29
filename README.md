@@ -1,5 +1,6 @@
 Learning ASP.NET Core C# Backend
-Learning: JWT authentification, Middleware, Postgres, Clean Architecture
+
+Learning: JWT authentification, Middleware, Postgres, Clean Architecture, Dapper, Postman
 
 <!--
 **afflar/afflar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
